@@ -1,0 +1,17 @@
+
+labels_list : ['Anchovy', 'Bok choy', 'Bracken', 'Button_mushroom_b', 'Egg_b', 'Eggplant_b', 'Green_onion_b', 'King trumpet mushroom', 'Manila clam', 'Onion_b', 'Paprika', 'Paprika_b', 'Paprika_c', 'Paprika_d', 'Pepper_b', 'Potato_b', 'Pumpkin', 'Radish_b', 'Sausage', 'Shiitake_b', 'Shrimp_b', 'Tomato_b', 'bean sprouts', 'beef', 'bellflowerroot', 'broccoli', 'burdock', 'button mushroom', 'cabbage', 'carrot', 'chicken', 'chives', 'cucumber', 'cucumber_b', 'dried shrimp', 'dumpling', 'egg', 'eggplant', 'enoki mushroom', 'garlic', 'garlic_b', 'ginger', 'green onion', 'ham', 'jukini', 'jukini_b', 'kimchi', 'lettuce', 'mackerel', 'mussel', 'napa cabbage', 'onion', 'oyster mushroom', 'pepper', 'perilla leaves', 'pork', 'potato', 'radish', 'salmon', 'shepherd-s purse', 'shiitake', 'shrimp', 'small octopus', 'squid', 'sweetpotato', 'tahu', 'tomato', 'watercress']
+labels_list_kr : [
+    '앤초비', '청경채', '고사리', '양송이버섯_b', '달걀_b', '가지_b', '대파_b', 
+    '새송이버섯', '바지락', '양파_b', '파프리카', '파프리카_b', '파프리카_c', 
+    '파프리카_d', '고추_b', '감자_b', '호박', '무_b', '소시지', '표고버섯_b', 
+    '새우_b', '토마토_b', '콩나물', '소고기', '도라지', '브로콜리', '우엉', 
+    '양송이버섯', '양배추', '당근', '닭고기', '부추', '오이', '오이_b', '건새우', 
+    '만두', '달걀', '가지', '팽이버섯', '마늘', '마늘_b', '생강', '대파', '햄', 
+    '애호박', '애호박_b', '김치', '상추', '고등어', '홍합', '배추', '양파', 
+    '느타리버섯', '고추', '깻잎', '돼지고기', '감자', '무', '연어', '냉이', 
+    '표고버섯', '새우', '쭈꾸미', '오징어', '고구마', '두부', '토마토', '미나리'
+]
+
+
+
+removal_list: ['Anchovy', 'Bok choy', 'Bracken', 'Button_mushroom_b', 'Egg_b', 'Eggplant_b', 'Green_onion_b', 'King trumpet mushroom', 'Manila clam', 'Onion_b', 'Paprika', 'Paprika_b', 'Paprika_c', 'Paprika_d', 'Pepper_b', 'Potato_b', 'Pumpkin', 'Radish_b', 'Sausage', 'Shiitake_b', 'Shrimp_b', 'Tomato_b', 'bean sprouts', 'beef', 'bellflowerroot', 'broccoli', 'burdock', 'button mushroom', 'cabbage', 'carrot', 'chicken', 'chives', 'cucumber', 'cucumber_b', 'dried shrimp', 'dumpling', 'egg', 'eggplant', 'enoki mushroom', 'garlic', 'garlic_b', 'ginger', 'green onion', 'ham', 'jukini', 'jukini_b', 'kimchi', 'lettuce', 'mackerel', 'mussel', 'napa cabbage', 'onion', 'oyster mushroom', 'pepper', 'perilla leaves', 'pork', 'potato', 'radish', 'salmon', 'shepherd-s purse', 'shiitake', 'shrimp', 'small octopus', 'squid', 'sweetpotato', 'tahu', 'tomato', 'watercress']
